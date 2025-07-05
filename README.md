@@ -1,3 +1,5 @@
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/f5fa93d2-caa2-49aa-b778-3bf153e6b9ae)
+
 # Maritime-Piracy-Spatio-Temporal-Hotspot-Analysis.
 
 NDVI Maps
@@ -8,5 +10,5 @@ Low NDVI Values: Urban areas and regions with less vegetation exhibit lower NDVI
 Seasonal Variation: The NDVI values also reflect seasonal changes, with greener landscapes during the wet season and lower vegetation health during the dry season.
 Analysis Insights
 
-![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/f5fa93d2-caa2-49aa-b778-3bf153e6b9ae)
+
 
