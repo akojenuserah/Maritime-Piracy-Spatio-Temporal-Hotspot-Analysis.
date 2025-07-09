@@ -1,15 +1,9 @@
+# Maritime-Piracy-Spatio-Temporal-Hotspot-Analysis.
+
 ![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/f5fa93d2-caa2-49aa-b778-3bf153e6b9ae)
 
-# Maritime-Piracy-Spatio-Temporal-Hotspot-Analysis.
-![OIP](https://github.com/user-attachments/assets/bbd333e2-9f25-49a0-8727-aae209f4c8e6)
 
-NDVI Maps
-The generated NDVI maps showcase different vegetation health across Edo State. Some key findings include:
 
-High NDVI Values: Regions with dense vegetation, including forests and farmlands, have higher NDVI values, indicating healthier vegetation.
-Low NDVI Values: Urban areas and regions with less vegetation exhibit lower NDVI values, signaling reduced or stressed vegetation.
-Seasonal Variation: The NDVI values also reflect seasonal changes, with greener landscapes during the wet season and lower vegetation health during the dry season.
-Analysis Insights
 
 
 
