@@ -1,6 +1,7 @@
 ![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/f5fa93d2-caa2-49aa-b778-3bf153e6b9ae)
 
 # Maritime-Piracy-Spatio-Temporal-Hotspot-Analysis.
+![OIP](https://github.com/user-attachments/assets/bbd333e2-9f25-49a0-8727-aae209f4c8e6)
 
 NDVI Maps
 The generated NDVI maps showcase different vegetation health across Edo State. Some key findings include:
